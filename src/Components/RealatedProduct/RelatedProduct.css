@@ -1,0 +1,24 @@
+.realtedProducts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 90vh;
+
+}
+.realtedProducts h1{
+    color: #717171;
+    font-size: 50px;
+    font-weight: 600;
+}
+.realtedProducts hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+}
+.realtedProduvt-item{
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
