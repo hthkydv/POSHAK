@@ -20,8 +20,8 @@
 }
 .descriptionbox-description{
     display: flex;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 17px;
+    font-weight: 500;
     flex-direction: column;
     gap: 25px;
     border: 1px solid #d0d0d0;
